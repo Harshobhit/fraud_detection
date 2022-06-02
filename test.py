@@ -1,0 +1,1 @@
+print('Testing without commit message')
